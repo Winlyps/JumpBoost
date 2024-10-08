@@ -1,0 +1,5 @@
+name: JumpBoost
+version: '1.0.0'
+main: winlyps.jumpBoost.JumpBoost
+api-version: '1.16'
+authors: [ Winlyps ]
